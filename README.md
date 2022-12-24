@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kritical1326
-- 👀 I’m interested in Computational Biology and Genomics.
-- 🌱 I’m currently learning Machine Learning and basic Bioinformatics.
-- 📫 You can reach me at contact@kritikamalhotra.com.
+Hi there! I'm @kritical1326👋, and I'm here to conquer the world (or at least the world of bioinformatics and genomics). I'm currently brushing up on my machine learning and bioinformatics skills. If you need someone to talk about DNA or algorithms with, I'm your gal. Just send an email to contact@kritikamalhotra.com and we'll nerd out together. In the meantime, I'll be busy trying to figure out how to make my computer do the cha cha slide 👩‍💻.
+
+I'm also a master of procrastination and coffee consumption ☕. So if you don't see any updates for a while, just know that I'm probably fueling up on caffeine before diving back into the world of biotech 🧪.
+
+Thanks for stopping by, and feel free to take a look around!
 
 [![Kritika's github stats](https://github-readme-stats.vercel.app/api?username=kritical1326&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
